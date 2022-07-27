@@ -1,0 +1,7 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\bin\Debug\MathComparisonChallenge.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\bin\Debug\MathComparisonChallenge.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\bin\Debug\MathComparisonChallenge.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\obj\Debug\MathComparisonChallenge.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\obj\Debug\MathComparisonChallenge.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\obj\Debug\MathComparisonChallenge.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\MathComparisonChallenge\MathComparisonChallenge\obj\Debug\MathComparisonChallenge.pdb

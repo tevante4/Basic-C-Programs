@@ -23,7 +23,7 @@ namespace BooleanLogic.cs
             int userTickets = Convert.ToInt32(writtenTickets);
 
             //boolean operation that says if the user age is greater than 15 and the user has less than 3 tickets and if the user does not have any DUIs then they are qualified.
-            bool isAuthorized = (userAge > 15 && userTickets < 3 && userDUI == false);
+            bool isAuthorized = (userAge > 15 && userTickets < 4 && userDUI == false);
             Console.WriteLine("Qualified?");
             Console.WriteLine(isAuthorized);
             Console.ReadLine();

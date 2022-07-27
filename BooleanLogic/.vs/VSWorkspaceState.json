@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BooleanLogic.cs"
+    "\\BooleanLogic.cs",
+    "\\BooleanLogic.cs\\obj",
+    "\\BooleanLogic.cs\\Properties"
   ],
-  "SelectedNode": "\\BooleanLogic.cs\\BooleanLogic.cs.csproj",
+  "SelectedNode": "\\BooleanLogic.cs\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

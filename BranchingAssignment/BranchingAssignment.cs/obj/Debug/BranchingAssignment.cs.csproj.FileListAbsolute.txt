@@ -1,0 +1,14 @@
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.exe.config
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.pdb
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.exe
+C:\Users\harri\OneDrive\Documents\GitHub\TechAcadamyBasicC-SharpProjects\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.pdb
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.exe
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\bin\Debug\BranchingAssignment.cs.pdb
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.exe
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\BranchingAssignment\BranchingAssignment.cs\obj\Debug\BranchingAssignment.cs.pdb

@@ -1,0 +1,11 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb

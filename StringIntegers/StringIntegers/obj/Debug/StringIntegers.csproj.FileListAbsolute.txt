@@ -1,0 +1,14 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\bin\Debug\StringIntegers.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\StringIntegers\StringIntegers\obj\Debug\StringIntegers.pdb

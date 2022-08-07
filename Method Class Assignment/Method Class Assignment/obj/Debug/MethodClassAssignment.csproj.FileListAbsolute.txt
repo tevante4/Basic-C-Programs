@@ -1,0 +1,6 @@
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\bin\Debug\Method Class Assignment.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\obj\Debug\Method Class Assignment.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Method Class Assignment\Method Class Assignment\obj\Debug\Method Class Assignment.pdb

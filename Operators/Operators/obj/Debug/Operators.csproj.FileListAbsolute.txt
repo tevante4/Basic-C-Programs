@@ -1,0 +1,14 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Operators\Operators\obj\Debug\Operators.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Operators\Operators\obj\Debug\Operators.pdb

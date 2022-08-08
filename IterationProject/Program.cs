@@ -113,6 +113,7 @@ namespace IterationProject
                     {
                         Console.WriteLine($"Here's {foods[i]} found at index " + i + ".");
                         cont = true;
+                        break;
                     }
                 }
                 if (!cont)
@@ -181,29 +182,21 @@ namespace IterationProject
 
             Console.WriteLine("Part Six: \nThe following is identifying duplicates on the foods list.");
 
+        List<string> ulist = new List<string>();
+        foreach (string str in foods3)
+        {
 
-            //Foreach loop iterating through the original list, adding entries to the second list            
-            foreach (string food in foods3)
+            if (ulist.Contains(str))
+                Console.WriteLine("{0} - item is a duplicate", str);
+            else
             {
-                //Nested foreach that loops through first list and compares entries to the second, if a match is found, returns to the parent foreach and continues
-                bool cont5 = false;
-                foreach (string dupeFood in dupeFoods)
-                {
-                    if (dupeFood == food)
-                    {
-                        Console.WriteLine($"{dupeFood} is a duplicate entry.");
-                        cont5 = true;
-                    }
-
-                }
-                if (!cont5)
-                {
-                    dupeFoods.Add(food);
-                    Console.WriteLine(food);
-                }
+                ulist.Add(str);
+                Console.WriteLine("{0}- item is unique", str);
             }
+
+        }
             Console.WriteLine("We're done here. Thanks. Press enter to close.");
             Console.ReadLine();
-        }
     }
 }
+    }

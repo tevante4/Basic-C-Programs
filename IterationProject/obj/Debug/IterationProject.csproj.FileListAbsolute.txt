@@ -13,3 +13,10 @@ C:\Users\The Tech Academy\Documents\GitHub\New folder\TA-C-Sharp-Projects\Iterat
 C:\Users\The Tech Academy\Documents\GitHub\New folder\TA-C-Sharp-Projects\IterationProject\obj\Debug\IterationProject.csproj.CoreCompileInputs.cache
 C:\Users\The Tech Academy\Documents\GitHub\New folder\TA-C-Sharp-Projects\IterationProject\obj\Debug\IterationProject.exe
 C:\Users\The Tech Academy\Documents\GitHub\New folder\TA-C-Sharp-Projects\IterationProject\obj\Debug\IterationProject.pdb
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\bin\Debug\IterationProject.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\bin\Debug\IterationProject.exe
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\bin\Debug\IterationProject.pdb
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\obj\Debug\IterationProject.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\obj\Debug\IterationProject.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\obj\Debug\IterationProject.exe
+C:\Users\The Tech Academy\Documents\GitHub\Basic-C-Programs\Basic-C-Programs\IterationProject\obj\Debug\IterationProject.pdb

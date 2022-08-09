@@ -1,0 +1,14 @@
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\Constructor\Constructor\obj\Debug\Constructor.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\Constructor\Constructor\obj\Debug\Constructor.pdb

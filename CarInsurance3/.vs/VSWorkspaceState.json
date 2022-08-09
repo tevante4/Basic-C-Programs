@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarInsurance3",
+    "\\CarInsurance3\\App_Data",
+    "\\CarInsurance3\\App_Start",
+    "\\CarInsurance3\\Content",
+    "\\CarInsurance3\\Controllers",
+    "\\CarInsurance3\\fonts",
+    "\\CarInsurance3\\Models",
+    "\\packages"
+  ],
+  "SelectedNode": "\\CarInsurance3\\Controllers\\InsureeController.cs",
+  "PreviewInSolutionExplorer": false
+}

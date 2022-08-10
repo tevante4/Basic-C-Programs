@@ -2,14 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CarInsurance3",
-    "\\CarInsurance3\\Controllers",
-    "\\CarInsurance3\\fonts",
-    "\\CarInsurance3\\Models",
     "\\CarInsurance3\\Views",
     "\\CarInsurance3\\Views\\Home",
     "\\CarInsurance3\\Views\\Insuree",
-    "\\CarInsurance3\\Views\\Shared",
-    "\\packages"
+    "\\CarInsurance3\\Views\\Shared"
   ],
   "SelectedNode": "\\CarInsurance3\\Views\\Insuree\\Admin.cshtml",
   "PreviewInSolutionExplorer": false

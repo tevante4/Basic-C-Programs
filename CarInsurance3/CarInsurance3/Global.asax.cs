@@ -19,4 +19,3 @@ namespace CarInsurance3
         }
     }
 }
-5

@@ -81,7 +81,3 @@ C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsurance3\CarInsu
 C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.csproj.CopyComplete
 C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.dll
 C:\Users\deond\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.pdb
-C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.csproj.AssemblyReference.cache
-C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.csproj.CoreCompileInputs.cache
-C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.dll
-C:\Users\The Tech Academy\Documents\GitHub\New folder\Basic_C-_Programs\CarInsurance3\CarInsurance3\obj\Debug\CarInsurance3.pdb
